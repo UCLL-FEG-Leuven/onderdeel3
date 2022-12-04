@@ -1,0 +1,11 @@
+{
+  "name": "onderdeel3.oefening07.es6-to-es5.server",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}

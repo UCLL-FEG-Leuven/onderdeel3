@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "name": "onderdeel3.oefening07.es6-to-es5.client",
+  "private": true,
+  "scripts": {
+    "watch": "webpack --watch"    
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.10",
+    "@babel/plugin-transform-runtime": "^7.17.10",
+    "@babel/preset-env": "^7.17.10",
+    "babel-loader": "^8.2.5",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.0"  
+  }
+}

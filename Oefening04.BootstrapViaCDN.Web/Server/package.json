@@ -1,0 +1,11 @@
+{
+  "name": "onderdeel3.oefening04.bootstrap-via-cdn.server",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "name": "onderdeel3.oefening04.bootstrap-via-cdn",
+  "private": true,
+  "scripts": {
+    "start": "cd server && npm install && npm run serve"  
+  }
+}

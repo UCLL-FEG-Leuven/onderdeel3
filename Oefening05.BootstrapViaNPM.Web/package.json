@@ -1,0 +1,11 @@
+{
+  "name": "onderdeel3.oefening05.bootstrap-via-npm",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npm install && concurrently \"cd client && npm install && npm run watch\" \"cd server && npm install && npm run serve\""
+  },
+  "devDependencies": {
+    "concurrently": "^7.6.0"
+  }
+}
